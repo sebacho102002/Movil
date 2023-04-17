@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSqlLite</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="nombrex">Nombre</string>
+    <string name="crearbase">CREAR BASE</string>
+</resources>
